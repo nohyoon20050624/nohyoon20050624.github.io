@@ -5,6 +5,7 @@ window.STUDY_CONFIG = {
   files: [
     'data/materials/01-family-systems.js',
     'data/materials/02-intergenerational-model.js',
-    'data/materials/03-distance-regulation.js'
+    'data/materials/03-distance-regulation.js',
+    'data/materials/04-assessing-family-functioning.js'
   ]
 };
